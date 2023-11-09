@@ -3,7 +3,7 @@ body{
 }
 h1{
     font-size: 120 px;
-    color: rgb(170, 20, 20)
+    color: rgb(255, 0, 0)
     text-align: center;
 }
 p{
@@ -15,14 +15,14 @@ img{
 
 }
 .cabecalho{
-    background-color: floralwhite;
+    background-color: rgb(255, 0, 0);
 }
 .lista_cabecalho{
     display: flex;
     margin-left: 250px;
 }
 .item_lista_cabecalho{
-    color: #a02822;
+    color: #ff0d00;
     list-style: none;
     text-transform: uppercase;
     font-size: 10px;
